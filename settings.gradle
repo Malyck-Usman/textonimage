@@ -1,0 +1,2 @@
+include ':ananas'
+include ':photoeditor'
